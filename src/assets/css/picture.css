@@ -1,0 +1,48 @@
+.picture{
+	position:absolute;
+	left:410px;
+	top:225px;
+}
+#Img{
+	width: 800px;
+	height: 396px;
+	position: absolute;
+}
+.picture .clickIcon{
+	width:30px;
+	height: 10px;
+	background-color: black;
+	float: left;
+	margin:0px 5px;
+	border-radius: 5px;
+	opacity: 0.5;
+	position: relative;
+	top:350px;
+	left: 310px;
+}
+.picture .leftArr,.rightArr{
+	border-radius: 30px;
+	background-color: grey;	
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	color: yellow;
+	opacity: 0.5;
+	font-size: 40px;
+
+}
+.picture .leftArr{
+	position: absolute;
+	top:170px;
+	left: 60px;
+}
+.picture .rightArr{
+	position: absolute;
+	top:170px;
+	left: 680px;
+}
+.picture .leftArr:hover,.rightArr:hover{
+	cursor: pointer;
+	color: red;
+	background-color: black;	
+}

@@ -1,0 +1,23 @@
+.left-aside{
+	background-color: #DDDDDD;
+	font-size: 18px;
+	position: relative;
+	top:102px;
+	left:300px;
+	width: 72px;
+	line-height: 50px;
+	text-align: center;
+}
+.left-aside div{
+	background-color: red;
+	font-size: 17px;
+	color: white;
+
+}
+.left-aside a{
+	text-decoration: none;
+	color: grey;
+}
+.left-aside a:hover{
+	color: red;
+}
