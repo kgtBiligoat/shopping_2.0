@@ -1,15 +1,19 @@
 # shopping_2.0
 
-> ÕâÊÇÎÒ»ùÓÚvue-cliÔÚshopping_1.0µÄ»ù´¡ÉÏÓÅ»¯ÁË´úÂë²¢Ìí¼ÓÁË²¿·Ö¹¦ÄÜ¶øÊµÏÖµÄvueÏîÄ¿
-> ¼¼ÊõÕ»£¨html/css,javascript,wabpack,jquery,vue£©
+> è¿™æ˜¯æˆ‘åŸºäºvue-cliåœ¨shopping_1.0çš„åŸºç¡€ä¸Šä¼˜åŒ–äº†ä»£ç å¹¶æ·»åŠ äº†éƒ¨åˆ†åŠŸèƒ½è€Œå®ç°çš„vueé¡¹ç›®
+> æŠ€æœ¯æ ˆï¼ˆhtml/css,javascript,wabpack,jquery,vueï¼‰
 
-# ÈçºÎÔËĞĞ
+# å¦‚ä½•è¿è¡Œ
 
- ##¿ª·¢Ä£Ê½
-   > ÊäÈëÃüÁî npm install
-   > ÔËĞĞ npm run dev
+ ##å¼€å‘æ¨¡å¼
+ 
+   > è¾“å…¥å‘½ä»¤ npm install
+   
+   > è¿è¡Œ npm run dev
 
- ##webpack´ò°ü
-   > ÊäÈëÃüÁî npm install
-   > ÔËĞĞ npm run build
+ ##webpackæ‰“åŒ…
+ 
+   > è¾“å…¥å‘½ä»¤ npm install
+   
+   > è¿è¡Œ npm run build
 	
