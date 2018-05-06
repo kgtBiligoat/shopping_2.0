@@ -1,21 +1,15 @@
 # shopping_2.0
 
-> A Vue.js project
+> 这是我基于vue-cli在shopping_1.0的基础上优化了代码并添加了部分功能而实现的vue项目
+> 技术栈（html/css,javascript,wabpack,jquery,vue）
 
-## Build Setup
+# 如何运行
 
-``` bash
-# install dependencies
-npm install
+ ##开发模式
+   > 输入命令 npm install
+   > 运行 npm run dev
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ ##webpack打包
+   > 输入命令 npm install
+   > 运行 npm run build
+	
